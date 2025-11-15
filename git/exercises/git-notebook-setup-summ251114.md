@@ -63,3 +63,7 @@ real path <file name>
 
 Now I'm wondering, are we able to edit the file name? as I plan to make a template to follow
 for each note I make in this notebook. I'll update it on a next commit.
+
+And to my surprise, the mv command does the rebranding also!
+
+<!-- mv <path of file> <same path or path to move + the rename change to the file> -->
