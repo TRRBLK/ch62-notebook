@@ -16,3 +16,6 @@ Usamos git remote -v para verificar nuestros repositorios vinculados
 
 #Cómo descargar nuestros u otros repositorios
 vamos a ejecutar git clone y lo traemos al repositorio local
+
+#Cómo quitar repositorio
+rm -r .git
