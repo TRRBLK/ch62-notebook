@@ -72,3 +72,20 @@ la sintaxis en JavaScript es: if (condicion {
 #PROGRAMA
 Se generó un programa en el IDE de Edge al cual se llamó:
 Diagrama_a_programa
+
+#Else
+Con else podemos encadenar varias condiciones, a lo que llamamos
+condiciones anidadas.
+
+#Bucles
+Son estructuras para ordenar a la computadora que ejecute un bloque de 
+código varias veces.
+
+Bucle while es una forma de escribir iteraciones, ejecutará el mismo 
+fragmento de código una y otra vez mientras la comparación sea 
+verdadera.
+
+Los bucles For se utilizan cuando tenemos una lista que recorrer y 
+también facilita la iteración a través de otras estructuras de datos.
+
+
