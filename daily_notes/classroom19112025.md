@@ -109,8 +109,10 @@ https://generation.instructure.com/courses/4219/assignments/295466
 
 **MIS PENDIENTES**
 - Checar por qué no me sirvió crear mi página de FizzBuzz en GitHub
+/*Lo resolví con git remote -v, mv y haciendo commit, push*/
 - Crear mi repositorio y hacer commits para calculadora
 	- Generar initial commit
 	- Adaptar index.html
 	- adaptar .js
 	- subir proyecto
+/*resuelto*/
