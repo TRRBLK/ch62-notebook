@@ -84,3 +84,109 @@ HttpClient en Java, fetch en JavaScript).
 - Beneficios de API
 - Que utilidad tienen
 - Que APIs se te ocurren que exista
+
+#FUNCION SINCRONA
+Se ejecuta una función primero y después otra, y asincrona significa que las 
+funciones se ejecutan al mismo tiempo.
+
+
+Al posicionar el cursor sobre el código aparece un atributo llamado Promise. 
+coloquemos <await> para que la función permanezca esperando hasta que se cumpla 
+una condición.
+
+Para convertir funciones en funciones asincronas usamos <async>
+
+#DESARROLLO DE UNA API DE CLIMA
+onclick invoca funciones propias de JavaScript. Vimos como hacer referencias 
+y tomar elementos del html para trabajarlo en JS y mostrarlo nuevamente en 
+html mediante punteros y referencias.
+
+#LINUX
+#QUE ES UN SISTEMA OPERATIVO
+Intermediario entre el hardware y el usuario.
+Ejecuta programas
+Gestiona recursos para optimo rendimiento.
+
+Entre ellos está macOS, Windows, Android.
+
+Imagina que los programas debían saber cómo hablar con cada pieza de 
+hardware directamente. Se tenia que modelar impresora, pantalla o ratón.
+
+#Ventajas
+Solo necesita que funcione en el OS, y el OS se encarga del resto.
+
+Para los fabricantes, crear hardware compatible con OS es más facil y 
+funcionará muy bien con multiples programas.
+
+Se puede realizar multitarea, interfaz grafica y optimizacion.
+
+#El kernel, corazón de todo sistema operativo.
+Parte central, puente de comunicación entre el software y el hardware.
+
+#LINUX
+Es un kernel, creado en 1991 como un nucleo libre y abierto que 
+revolucionó el software.
+
+#Distribuciones de linux
+Es lo que convierte a linux en OS. Combina el nucleo con software adicional. 
+Incluye gestores de paquetes, entornos de escritorio y herramientas.
+
+Las distribuciones facilitan la instalación y gestión del sistema. 
+
+Ejemplos serían: Ubuntu, Fedora y Debian. Se recomienda empezar por Ubuntu o 
+Debian.
+
+#Motores y coches
+Linux es como el motor de un coche. Pero no hace nada sin ninguna otra parte 
+mecanica. Una distribución otorga estos atributos como el chasis, las ruedas, 
+el volante, etc.
+
+Y la versatilidad del motor puede hacerse un coche deportivo, sedán o lo que 
+se requiera.
+
+OS: admin. general de la computadora.
+
+Kernel: nucleo del OS que comunica soft y hard
+
+Distribución: combinación del kernel Linux ocn otras herramientas para 
+crear un OS completo y usable.
+
+#El misterio de Linux
+
+¿A quien pertenece Linux?
+
+Cuando "compras" software, compras una LICENCIA. No puedes copiarlo, 
+modificarlo, revenderlo y se conoce como privativo o cerrado.
+
+El codigo abierto usa una licencia especial que da libertad de:
+- Estudiar, viendo el codigo fuente completo y aprender como funciona.
+- Modificar, adaptando el codigo a tus necesidades.
+-POR TERMINAR
+
+Miles de personas desarrollan Linux, cada contribuidor es dueño de una 
+pequeña parte, al hacerlo, acepta la licencia de código abierto, 
+beneficiandose todos.
+
+Empresas como Google, Samsung, se benefician.
+
+#INSTALACION DE SOFTWARE
+Las distribuciones están listas usando paquetes y repositorios ya revisados 
+listos para su instalación con un solo clic.
+
+En linux, para descargar software, se encuentra en el Gestor de Software, 
+o a partir de la Terminal.
+
+La herramienta más potente de Linux. Permite instalar, actualizar y eliminar 
+software con comandos precisos.
+
+Cada distribucion usa su familia de comandos.
+
+#NGINX
+Es un servidor web de alto rendimiento. Su principal función es recibir las 
+peteciones de los visitante y entregar el contenido en un sitio web de forma 
+segura y eficiente. Usada por Netflix, Airbnb y Dropbox.
+
+Para actualizar lista de software, en APT se usan comandos distintos.
+
+
+
