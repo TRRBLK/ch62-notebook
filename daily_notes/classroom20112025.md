@@ -189,4 +189,10 @@ segura y eficiente. Usada por Netflix, Airbnb y Dropbox.
 Para actualizar lista de software, en APT se usan comandos distintos.
 
 
+#COMUNICACION
+Eciste comunicación verbal fuerte y debil, además de no verbal. Hay que 
+trabajar esta habilidad para poder comunicarnos de manera correcta y 
+efectiva para la mutua colaboración sin generar conflictos o malos 
+entendidos, y formentando la colaboración para llegar juntos a un resultado.
+
 
