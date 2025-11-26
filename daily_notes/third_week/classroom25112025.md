@@ -165,3 +165,36 @@ Declarar con letra minuscula y usar camelCase. Puede haber numeros.
 Hicimos una practica con la siguiente direccion: 
 /c/Generation/CH62/notebook/javascript/projects/third week/ch62-javascript-sessions/ch62-javascript-sessions
 
+#LIVESERVER VISUAL CODE
+localhost:5500
+
+#SESION 3 DE SCRUM
+Hicimos trabajo colaborativo de que plug ins utilizar
+
+-------------------------
+##INTELIGENCIA ARTIFICIAL
+-------------------------
+Objetivos: 
+Revisar los objetivos de programas
+
+La IA esta creciendo exponencialmente, con inmesas inversiones. Más del 
+40% de lideres empresariales ya reportan un aumento de productividad 
+gracias a la automatización con IA.
+
+El 77% de las compañias ya están utilizando o explorando la IA en sus 
+procesos de negocios.
+
+#ESTRUCTURA
+1. Mundo de la IA.
+2. Lectura.
+3. Redacción:
+ - Sesiones tecnicas
+ - Platicas
+
+Comprension clara del panorama actual y futuro de la IA, posibles usos, 
+y actitud adecuada para abordar sus limitaciones.
+
+Se podrá realizar tareas de lectura, aprovechando la ingeniería de prompts. 
+Manteniendo un enfoque crítico y responsable.
+
+
