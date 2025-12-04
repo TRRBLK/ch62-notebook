@@ -19,3 +19,21 @@ hardcode en objetos.
 
 ###EJERCICIOS
 Se hizo ejercicios de modulación en JS-05 para futuras consultas.
+
+#RETROALIMENTACION ENTRE COMPAÑEROS
+Hacer primero enfasis en lo que se hizo bien, cómo se involucró y que 
+acciones se tomaron.
+
+##RECOMENDACIONES
+- Generalidades
+- Invalidaciones
+- Juicios
+- Comparaciones
+
+###Juego de roles
+Se hizo un pequeño juego de roles donde se expuso la falta de 
+estrategias de retroalimentación en un caso, y en otro donde sí se 
+implementaron habilidades blandas dando lugar a la aceptación de las 
+sugerencias.
+
+
