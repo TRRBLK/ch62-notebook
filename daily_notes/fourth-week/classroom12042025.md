@@ -22,8 +22,14 @@ Data Base with MySQL.
 Back-end with Spring Boot and Java.
 
 ## Pages
-
 Main page, Contact us, About us, Product list/Posts with API Consume 
 (POST and GET)
 
 Login (CRUD), Poll page (stock update, creation, view, delete)
+
+## AI for redacting and documentation
+19.5
+Asynchronous session
+https://generation.instructure.com/courses/4219/pages/19-dot-5-t-aiw-apertura-5-min?module_item_id=2840421
+
+
