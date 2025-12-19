@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="form.css">
+    <title>¡Contactanos!</title>
+</head>
+<body>
+    <h1>Contacto</h1>
+    <nav>
+    <ol>
+        <li>Introduccion</li>
+         <li>Desarrollo</li>
+         <li>Conclusiones</li>
+    </ol>
+    </nav>
+
+    <main>
+
+        <section>
+            <h1>Para recibir colaboraciones o patrocinios, llena este formulario</h1>
+            <form action ="https://formsubmit.co/git.trrblnc@gmail.com" method="POST">
+                <fieldset>
+                    <legend>Información básica</legend>
+                    
+                    <label for="nombre">
+                    Nombre(s): <input id="nombre" name="nombre" type = "text" placeholder="Solo texto, ejemplo: Jhon Doe" required> 
+                    </label> 
+                
+                    <label for="apellidos">
+                    Apellido(s): <input id="apellidos" name="apellido" type = "text" placeholder="Apellidos aqui" required>
+                    </label> 
+
+                    <label for="correo">
+                    Correo electronico: <input id="correo" name="correo" type = "email" placeholder="Tu correo aquí" required>
+                    </label> 
+
+                    <label for="telefono">
+                        Telefono: <input type="tel" id="telefono" name="telefono" placeholder="10 digitos, ejemplo: 1234567890" pattern="[0-9]{10}" required>
+                    </label> 
+                </fieldset>
+
+                <fieldset>
+
+                    <legend>Datos de colaboración</legend>
+                    <span>☣️ Si deseas colaborar tienes que probar que eres un verdadero fan de la rosa de guadalupe <br>
+                    <label for ="capitulo">
+                        Numero de capitulo favorito: <input type="number" name="capitulo" id="capitulo" min="1" max="2279">
+                    </label> <br>
+                
+                    <label for="fecha">
+                        Fecha de colaboracion: <input type="date" id="fecha" >
+                    </label> <br>
+
+                    <span>Lugar de colaboración: </span> <br>
+                    <label for="casino">
+                        <input type = "radio" name="lugar-de-colaboracion" value="Casino La Imperial"> Casino "La Imperial"
+                    </label>
+                    
+                    <label for="plaza">
+                        <input type = "radio" name="lugar-de-colaboracion" value="Plaza La Mexicana"> Plaza "La Mexicana"
+                    </label>
+
+                    <label for="zocalo">
+                        <input type = "radio" name="lugar-de-colaboracion" value="Zocalo"> Zocalo
+                
+                </fieldset>
+
+                <label for="verificacion">
+                    <input type="checkbox" id="verificacion" required>Acepto terminos y condiciones
+                </label> <br>
+
+                <input type="submit" value="Enviar formulario">
+
+                <button>Enviar 🌹</button> 
+            </form>
+        </section>
+    </main>
+</body>
+</html>

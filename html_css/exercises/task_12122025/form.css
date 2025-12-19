@@ -1,0 +1,62 @@
+* { /*Reseteo basico de margenes y paddings*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root { /* Variables CSS */
+    --title-color: #5A9CB5;
+    --main-bg-color: #FACE68;
+    --accent-color: #FAAC68;
+    --border-roundness: 3%;
+}
+
+body {
+    background-color: var(--main-bg-color);
+    color: #333333;
+    font-family: "Playfair Display", serif;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+nav ol {
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+main {
+    background-color: white;
+    width: 70%;
+    max-width: 800px;
+    margin: 1em auto;
+    padding: 2rem;
+    border-radius: var(--border-roundness);
+}
+
+nav ol li {
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ol li:hover {
+    background-color: #3140c4;
+    font-size: large;
+}
+
+h1::first-letter{
+    font-size: 200%;
+    color: #bf1bce;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    border: 1px dashed #bf1bce;
+}

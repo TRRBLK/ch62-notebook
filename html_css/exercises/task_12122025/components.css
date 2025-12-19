@@ -1,0 +1,21 @@
+.barra {
+    background-color: salmon;
+}
+
+.boton-buscar {
+    background-color: aquamarine;
+}
+
+.boton-buscar:hover {
+    background-color: blueviolet;
+}
+
+.tarjeta-productos {
+    background-color: palevioletred;
+    color: whitesmoke;
+    font-weight: bold;
+    border: 2px solid white;
+    padding: 5%;
+    text-align: center;
+
+}

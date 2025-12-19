@@ -1,0 +1,16 @@
+.caja-magica {
+    width: 300px;
+    height: 300px;
+
+    background-color: red;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .caja-magica{
+        background-color: blue;
+        width: 100%;
+    }
+}
