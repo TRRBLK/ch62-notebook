@@ -1,18 +1,18 @@
 # Conceptos de programación
-Cuales son los pilares de Programación Orientada a Objetos
-Que es un API
-Que diferencia a API RESTful
-Describir los principales sistemas operativos en uso
-Dif Software abierto y cerrado
-Distribucion de Linux y cuales son las principales distribuciones que existen
-Componentes de hardware importantes de una PC
-Como es la nube
-Que es malware
-Mitigaciones de malware
-Cifrar datos
-principio de privilegio minimo
-IPS y OSI
-Dif entre cliente y servidor
+1. Cuales son los pilares de Programación Orientada a Objetos
+2. Que es un API
+3. Que diferencia a API RESTful
+4. Describir los principales sistemas operativos en uso
+5. Dif Software abierto y cerrado
+6. Distribucion de Linux y cuales son las principales distribuciones que existen
+7. Componentes de hardware importantes de una PC
+8. Como es la nube
+9. Que es malware
+10. Mitigaciones de malware
+11. Cifrar datos
+12. principio de privilegio minimo
+13. IPS y OSI
+14. Dif entre cliente y servidor
 
 # Conceptos de desarrollo de software
 1. Componentes principales de software
